@@ -6,7 +6,7 @@
 // ===========================
 // Данные Wi-Fi (ТОЛЬКО 2.4 ГГц!)
 // ===========================
-const char *ssid = "BearMagistr";
+const char *ssid = "test";
 const char *password = "123456789";
 
 camera_config_t config;
